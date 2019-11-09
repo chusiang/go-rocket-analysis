@@ -1,6 +1,6 @@
 # GO Rocket 對戰分析
 
-[![go-rocket-analysis](https://img.shields.io/badge/go--rocket--analysis-blue.svg)](https://github.com/chusiang/go-rocket-analysis) [![Markdown](https://img.shields.io/badge/%3C%2F%3E-Markdown-blue.svg)](http://markdown.tw) [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+[![go-rocket-analysis](https://img.shields.io/badge/GitHuh-chusiang/go--rocket--analysis-blue.svg)](https://github.com/chusiang/go-rocket-analysis) [![Markdown](https://img.shields.io/badge/%3C%2F%3E-Markdown-blue.svg)](http://markdown.tw) [![SimpleMind](https://img.shields.io/badge/MindMap-SimpleMind-blue.svg)](https://simplemind.eu/) [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 為更順利地的擊敗 [Pokemon GO](https://pokemongolive.com/zh_hant/) 中的各個火箭隊手下和幹部，故進行此對戰分析。凍仁將不定期更新，敬請期待。
 
