@@ -30,12 +30,14 @@
 
 ## 亞洛 (Arlo)
 
-[arlo_mindmap_v1.0.1.png](png/arlo_mindmap_v1.0.1.png)
+[arlo_mindmap_v1.0.2.png](png/arlo_mindmap_v1.0.2.png)
 
-![v1.0.1](png/arlo_mindmap_v1.0.1.png)
+![v1.0.2](png/arlo_mindmap_v1.0.2.png)
 
 ### Changes
 
+* v1.0.2:
+ 1. 加入**HP 過少**判斷。
 * v1.0.1:
  1. 新增**電吉洛克** vs. 飛天螳螂 (待驗證)。
  1. 變更鋼屬性顏色 (灰 → 深綠)。
