@@ -38,12 +38,15 @@
 
 ## 亞洛 (Arlo)
 
-[arlo_mindmap_v1.0.2.png](png/arlo_mindmap_v1.0.2.png)
+[arlo_mindmap_v1.0.3.png](png/arlo_mindmap_v1.0.3.png)
 
-![v1.0.2](png/arlo_mindmap_v1.0.2.png)
+![arlo_mindmap_v1.0.3.png2](png/arlo_mindmap_v1.0.3.png)
 
 ### Changes
 
+* v1.0.3:
+ 1. 新增**巨金怪**、**噴火龍**、**班基拉斯** vs. 飛天螳螂組合。
+ 1. 調整**待實驗**位置。
 * v1.0.2:
  1. 加入**HP 過少**判斷。
 * v1.0.1:
