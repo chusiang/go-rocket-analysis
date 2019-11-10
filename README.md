@@ -19,12 +19,16 @@
 
 ## 希爾拉 (Sierra).
 
-[sierra_mindmap_v1.0.0.png](png/sierra_mindmap_v1.0.0.png)
+[sierra_mindmap_v1.0.1.png](png/sierra_mindmap_v1.0.1.png)
 
-![sierra_mindmap_v1.0.0.png](png/sierra_mindmap_v1.0.0.png)
+![sierra_mindmap_v1.0.1.png](png/sierra_mindmap_v1.0.1.png)
 
 ### Changes
 
+* v1.0.1:
+ 1. 幫部份 [屬性] 上色。
+ 1. 加入**HP 過少**判斷。
+ 1. 新增暗影球超夢。
 * v1.0.0:
  1. 2019/11/10 完成第 1 次分析。
 
