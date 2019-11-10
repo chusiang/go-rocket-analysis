@@ -21,12 +21,14 @@
 
 ## 希爾拉 (Sierra).
 
-[sierra_mindmap_v1.0.1.png](png/sierra_mindmap_v1.0.1.png)
+[sierra_mindmap_v1.0.2.png](png/sierra_mindmap_v1.0.2.png)
 
-![sierra_mindmap_v1.0.1.png](png/sierra_mindmap_v1.0.1.png)
+![sierra_mindmap_v1.0.2.png](png/sierra_mindmap_v1.0.2.png)
 
 ### Changes
 
+* v1.0.2:
+ 1. 調整**待實驗**位置。
 * v1.0.1:
  1. 幫部份 [屬性] 上色。
  1. 加入**HP 過少**判斷。
