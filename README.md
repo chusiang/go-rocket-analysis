@@ -8,12 +8,14 @@
 
 ## 克里夫 (CliffArlo)
 
-[cliffarlo_mindmap_v0.1.0.png](png/cliffarlo_mindmap_v0.1.0.png)
+[cliffarlo_mindmap_v0.1.1.png](png/cliffarlo_mindmap_v0.1.1.png)
 
-![cliffarlo_mindmap_v0.1.0.png](png/cliffarlo_mindmap_v0.1.0.png)
+![cliffarlo_mindmap_v0.1.1.png](png/cliffarlo_mindmap_v0.1.1.png)
 
 ### Changes
 
+* v0.1.1:
+ 1. 調整**待實驗**位置。
 * v0.1.0:
  1. 2019/11/10 完成第 1 次分析，但尚未進行實戰驗證。
 
