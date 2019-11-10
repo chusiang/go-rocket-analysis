@@ -12,5 +12,4 @@ status:
 	docker-compose ps
 
 clean:
-	docker-compose stop Go_Rocket
-	docker-compose rm -f Go_Rocket
+	docker-compose down -v
