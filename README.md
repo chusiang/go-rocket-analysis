@@ -14,7 +14,14 @@
 
 ### 克里夫 (CliffArlo)
 
-待續。
+[cliffarlo_mindmap_v0.1.0.png](png/cliffarlo_mindmap_v0.1.0.png)
+
+![cliffarlo_mindmap_v0.1.0.png](png/cliffarlo_mindmap_v0.1.0.png)
+
+#### Changes
+
+* v0.1.0:
+ 1. 2019/11/10 完成第 1 次分析，但尚未進行實戰驗證。
 
 ### 希爾拉 (Sierra).
 
