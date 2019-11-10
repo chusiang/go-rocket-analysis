@@ -22,6 +22,8 @@
 
 ### 亞洛 (Arlo)
 
+[arlo_mindmap_v1.0.0.png](png/arlo_mindmap_v1.0.0.png)
+
 ![v1.0.0](png/arlo_mindmap_v1.0.0.png)
 
 ----
